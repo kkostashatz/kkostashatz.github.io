@@ -21,7 +21,7 @@ repository               : "kkostashatz/kkostashatz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Image.png"
+  avatar           : "Image1.png"
   name             : "Konstantinos Chaztiandreou"
   pronouns         : # example: "she/her"  
   bio              : "PhD Researcher in Computational and Financial Mathematics"

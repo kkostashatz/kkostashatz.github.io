@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Portfolio Theory"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2024-spring-teaching-1
+venue: "University of Amsterdam, KdVI for Mathematics"
+date: 2024-01-01
+location: "Amsterdam, the Netherlands"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
