@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a PhD Candidate in Computational and Financial Mathematics at the Computational Science Lab (CSL) and the Korteweg-de Vries Institute for Mathematics at the University of Amsterdam. My work focuses on pricing and hedging energy derivatives with a particular emphasis on Power Purchace Agreements. My supervisor is [Sven Karbach](https://sven-karbach.de/).
+I am a PhD Candidate in Computational and Financial Mathematics at the Computational Science Lab (CSL) and the Korteweg-de Vries Institute for Mathematics at the University of Amsterdam. My work focuses on pricing and hedging energy derivatives with a particular emphasis on Power Purchace Agreements. My supervisors are [Sven Karbach](https://sven-karbach.de/) and Drona Kandhai.
 
 ## Contact details
 University of Amsterdam \
