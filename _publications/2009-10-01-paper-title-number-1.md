@@ -3,7 +3,6 @@ title: "Optimal Execution in Intraday Energy Markets under Hawkes Processes with
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-14-optimal-execution-hawkes
-excerpt: "A mutually‐exciting Hawkes-process framework calibrated to German intraday electricity data yields an optimal execution strategy that outperforms TWAP and VWAP across hourly products."
 date: 2025-04-14
 venue: "arXiv (q-fin.TR)"
 paperurl: "https://arxiv.org/abs/2504.10282"
