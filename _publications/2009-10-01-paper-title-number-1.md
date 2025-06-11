@@ -1,7 +1,7 @@
 ---
 title: "Optimal Execution in Intraday Energy Markets under Hawkes Processes with Transient Impact"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-04-14-optimal-execution-hawkes
 date: 2025-04-14
 venue: "arXiv (q-fin.TR)"
