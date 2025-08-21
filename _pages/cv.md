@@ -33,9 +33,8 @@ redirect_from:
 # Employment
 
 - **Researcher / Ph.D. Candidate**  
-  *University of Amsterdam* (Oct. 2024 – Present)  
-  - Focus on AI4FinTech, stochastic modelling, and quantitative finance in renewable energy markets.
-
+  *University of Amsterdam* (Oct. 2024 – Present)
+  
 - **Research Intern**  
   *Statkraft Trading, Düsseldorf* (March 2024 – August 2024)  
   - **Thesis Title**: *Optimal trade execution in intraday markets under Marked-Hawkes processes*.
